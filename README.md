@@ -8,4 +8,7 @@ Project Description : This is a web based application developed for Healthcare n
 
 Primary Azure Technology : Static Web Apps, Visual Studio Code, Microsoft Azure portal
 
-Project Demo URL : 
+Project Demo URL : https://orange-ocean-08ee0d610.1.azurestaticapps.net
+
+Screenshots:
+
